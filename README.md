@@ -1,2 +1,2 @@
-# ohWebsite
-personal website
+# Personal Website
+Owen Hughes
